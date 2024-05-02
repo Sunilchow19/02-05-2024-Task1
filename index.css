@@ -1,0 +1,49 @@
+.head{
+position: absolute;
+    position: fixed;
+    right:0px;
+    z-index: +1;
+    display: block;background-color: whitesmoke;
+    width: 100%;
+    height: 50px;
+
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: inline-block;
+}
+#id{
+    display: inline;
+}
+div{
+    display: inline-block;
+    margin-left: 5px;
+    vertical-align: top;
+    margin-left: 50px;
+   
+}
+li{
+    display: inline-block;
+}
+#nav2{
+    display: inline-block;position: absolute;left: 4%;font-style: italic;
+}
+
+#nav3{
+    display: inline-block;position: absolute;left: 7%;font-style:italic;top: 5px;
+}
+ /*      #hone{
+    background-color: black;
+    color: whitesmoke;
+}
+#hto{color: whitesmoke;
+ 
+ 
+      margin-left:7% ;
+}
+#hon{
+    background-color: rgba(0, 0, 0, 0.579); color: whitesmoke;margin-right: 50px;
+}
+*/
